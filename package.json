@@ -18,7 +18,7 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "jsdom": "^16.3.0",
+        "jsdom": "^16.5.0",
         "vue": "^2.6.11",
         "vue-server-renderer": "^2.6.11"
     }
